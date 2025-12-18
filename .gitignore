@@ -17,3 +17,6 @@ config.py
 
 # Docker
 .dockerignore
+
+# Environmental Variable
+.env
